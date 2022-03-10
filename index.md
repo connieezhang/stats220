@@ -41,3 +41,5 @@ meme <- c(top_row, bottom_row) %>%
 image_write(meme, "my_meme.png")
 
 ```
+
+![my_meme](https://user-images.githubusercontent.com/101073127/157767527-f61fb547-c178-4a2d-bca8-6a643637498e.png)
