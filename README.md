@@ -1,1 +1,1 @@
-# stats220
+[stats220](https://connieezhang.github.io/stats220/)
