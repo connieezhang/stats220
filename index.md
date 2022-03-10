@@ -40,6 +40,6 @@ meme <- c(top_row, bottom_row) %>%
 
 image_write(meme, "my_meme.png")
 
-```
+meme
 
-![cat_meme](my_meme.png)
+```
