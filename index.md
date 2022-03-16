@@ -1,10 +1,24 @@
-Here is my first meme!
+# Welcome to my Stats 220 page! 
+
+## Here is my first meme!
 
 ![cat_meme](my_meme.png)
 
 My motivation behind creating this meme was to design a cute cat-related meme that was both funny and relatable for individuals living in modern times. Although following the basic meme format of four sections used by many popular memes. My meme captures the amusing moments many have experienced when they pose for a video. I consider my meme to be new and original as the combination of this plot and the use of the two cat images has not been seen on any other pages.
 
+The cat images I used for my meme belong to a cat famous for their expressions. For people who are curious of the cats details, I've listed **5 facts** about her!
+The cat is
+1. called **Nana**
+2. is a _British Shorthair_
+3. lives in _China_
+4. is famous on Chinese social media site called _Weibo_
+5. and currently has _304k followers_ on the platform
+
+For more photos from Nana you can view her [Weibo account](https://weibo.com/u/6483141345)
+
 Below I have included the R code I used to create this new meme.
+
+## R Code
 
 ```r
 
