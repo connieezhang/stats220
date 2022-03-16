@@ -4,6 +4,8 @@ Here is my first meme!
 
 My motivation behind creating this meme was to design a cute cat-related meme that was both funny and relatable for individuals living in modern times. Although following the basic meme format of four sections used by many popular memes. My meme captures the amusing moments many have experienced when they pose for a video. I consider my meme to be new and original as the combination of this plot and the use of the two cat images has not been seen on any other pages.
 
+Below I have included the R code I used to create this new meme.
+
 ```r
 
 library(magick)
