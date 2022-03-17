@@ -1,4 +1,4 @@
-# Welcome to my Stats 220 page! 
+# Welcome to my STATS 220 page! 
 
 ![Hello gif](https://media3.giphy.com/media/lrtPCNjE8Rdoky43VR/giphy.gif?cid=790b761145d69ded48ca43c8f5b80f8876aa82c33511c4c0&rid=giphy.gif&ct=g)
 
