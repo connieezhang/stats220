@@ -18,21 +18,7 @@ The cat is
 
 For more photos from Nana you can view her [Weibo account](https://weibo.com/u/6483141345)
 
-![nana_cat](pic1 <- image_read("https://www.boredpanda.com/blog/wp-content/uploads/2020/07/expressive-cat-nana-1-4-5f16cff195d6f__700.jpg") %>%
-  image_scale(200)
-
-pic2<- image_read("https://nextshark.com/wp-content/uploads/2020/07/1sdkyghfkawhdkjhyawgd.jpg") %>%
-  image_scale(200)
-
-pic3 <- image_read("https://i.pinimg.com/474x/2e/27/76/2e2776ddb1dcb8f96c498ba5e1960bdc.jpg") %>%
-  image_scale(200)
-
-nana <- c(pic1, pic2, pic3) %>%
-  image_append() %>%
-  image_scale(400)
-
-image_write(nana, "nana_cat.png")
-)
+![nana_cat](nana_cat.png)
 
 Below I have included the R code I used to create this new meme.
 
