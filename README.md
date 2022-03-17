@@ -2,7 +2,7 @@
 
 ![Hello and welcome gif](https://c.tenor.com/gPJodWI_nGwAAAAM/welcome.gif)
 
-This repo has been made for my STATS 220 course to upload my assignments and projects throughout the semester! In creating this repo, I will be able to learn how to use GitHub, as well as upload my work on a public platform to be displayed for other users to see. Feel free to follow me ![connieezhang](https://github.com/connieezhang) at if you'd like to see my progress in this course!
+This repo has been made for my STATS 220 course to upload my assignments and projects throughout the semester! In creating this repo, I will be able to learn how to use GitHub, as well as upload my work on a public platform to be displayed for other users to see. Feel free to follow me ([connieezhang](https://github.com/connieezhang)) if you'd like to see my progress in this course!
 
 #### My Assignment schedule for 2022 Semester One:
 * Assignment 1 due 21 Mar @ 10pm NZDT
