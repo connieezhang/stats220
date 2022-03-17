@@ -18,6 +18,8 @@ The cat is
 
 For more photos from Nana you can view her [Weibo account](https://weibo.com/u/6483141345)
 
+![nana_cat](nana_cat.png)
+
 Below I have included the R code I used to create this new meme.
 
 ## R Code
