@@ -11,6 +11,6 @@ This repo has been made for my STATS 220 course to upload my assignments and pro
 * Assignment 4 due 16 May @ 10pm NZDT
 * Assignment 5 due 30 May @ 10pm NZDT
 
-Here is my first meme I designed using R for my first assignment.
+Here is my first meme I designed using R for my first assignment. In this assignment, I used the [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package to create the final design presented below:
 
 ![cat_meme](my_meme.png)
